@@ -6,13 +6,16 @@
     "start": "expo start"
   },
   "dependencies": {
+    "@bacons/apple-colors": "^0.0.8",
     "@expo/cli": "56.0.0-canary-20260128-67ce8d5",
     "@expo/vector-icons": "^15.0.3",
     "@react-navigation/bottom-tabs": "^7.10.1",
     "@react-navigation/native": "^7.1.28",
     "expo": "^55.0.0-preview.7",
+    "expo-bluetooth": "file:./modules/expo-bluetooth",
     "expo-constants": "~55.0.2",
     "expo-font": "~55.0.2",
+    "expo-glass-effect": "~55.0.5",
     "expo-haptics": "~55.0.2",
     "expo-image": "~55.0.2",
     "expo-linking": "~55.0.3",

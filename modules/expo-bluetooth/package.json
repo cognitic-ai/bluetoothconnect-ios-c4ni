@@ -1,0 +1,9 @@
+{
+  "name": "expo-bluetooth",
+  "version": "1.0.0",
+  "description": "Expo module for CoreBluetooth BLE scanning and device interaction",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "author": "expo",
+  "homepage": "https://docs.expo.dev/modules/"
+}
